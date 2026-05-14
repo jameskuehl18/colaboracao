@@ -1,3 +1,4 @@
+Efetuando teste de colaboração
 
 GUIA COMPLETO DE COMANDOS GIT COM EXEMPLOS
 ==========================================
