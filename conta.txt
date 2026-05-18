@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+Teste de envio git
+Outro teste
+Desenvolvimento de test
+=======
 Efetuando teste de colaboração
 
 GUIA COMPLETO DE COMANDOS GIT COM EXEMPLOS
@@ -269,3 +274,4 @@ git merge branch
 git log --oneline
 
 FIM DO GUIA
+>>>>>>> a1e40d411916e71471a204ed0f0b65a394fde70a
